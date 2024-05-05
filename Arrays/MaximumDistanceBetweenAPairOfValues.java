@@ -1,5 +1,5 @@
 package Striver.Arrays;
-// 1855. Maximum Distance Between a Pair of Values
+// 1855[Medium]. Maximum Distance Between a Pair of Values
 public class MaximumDistanceBetweenAPairOfValues {
     public static void main(String[] args) {
         int nums1[] = {30,29,19,5};

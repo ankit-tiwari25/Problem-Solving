@@ -1,5 +1,5 @@
 package Striver.SlidingWindow;
-// 1658. Minimum Operations to Reduce X to Zero
+// 1658[Medium]. Minimum Operations to Reduce X to Zero
 //Need to go through this code again
 public class MinimumOperationstoReduceXtoZero {
     public static void main(String[] args) {

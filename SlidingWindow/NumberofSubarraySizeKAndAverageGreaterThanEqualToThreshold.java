@@ -1,5 +1,5 @@
 package Striver.SlidingWindow;
-//1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
+//1343[Medium]. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
 public class NumberofSubarraySizeKAndAverageGreaterThanEqualToThreshold {
     public static void main(String[] args) {
         int[] arr = {2,2,2,2,5,5,5,8};

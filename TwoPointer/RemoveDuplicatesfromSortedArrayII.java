@@ -1,5 +1,5 @@
 package Striver.TwoPointer;
-//80. Remove Duplicates from Sorted Array II
+//80. [Medium] Remove Duplicates from Sorted Array II
 public class RemoveDuplicatesfromSortedArrayII {
     public static void main(String[] args) {
         int[] arr = {1,1,1,2,2,3};

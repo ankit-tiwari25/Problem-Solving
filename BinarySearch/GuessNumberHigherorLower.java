@@ -1,5 +1,5 @@
 package Striver.BinarySearch;
-//374. Guess Number Higher or Lower
+//374[Easy]. Guess Number Higher or Lower
 public class GuessNumberHigherorLower {
     public static void main(String[] args) {
         System.out.println(guessNumberHigherorLower(10));

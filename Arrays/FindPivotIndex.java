@@ -1,5 +1,5 @@
 package Striver.Arrays;
-// 724. Find Pivot Index
+// 724.[Easy] Find Pivot Index
 // TODO : Need to do this again (Directly copied)
 public class FindPivotIndex {
     public static void main(String[] args) {

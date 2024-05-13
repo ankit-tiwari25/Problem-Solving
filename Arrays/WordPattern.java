@@ -1,6 +1,7 @@
 package Striver.Arrays;
 
 // 290[Easy]. Word Pattern
+// TODO : (Directly copied)
 
 import java.util.HashMap;
 

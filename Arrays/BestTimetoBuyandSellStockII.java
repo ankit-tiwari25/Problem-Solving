@@ -2,7 +2,7 @@ package Striver.Arrays;
 
 import java.util.List;
 
-// 122. Best Time to Buy and Sell Stock II
+// 122[Medium]. Best Time to Buy and Sell Stock II
 //TODO : 
 public class BestTimetoBuyandSellStockII {
     public static void main(String[] args) {

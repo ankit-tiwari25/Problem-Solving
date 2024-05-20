@@ -2,7 +2,7 @@ package Striver.SlidingWindow;
 
 import java.util.Arrays;
 
-// 1838. Frequency of the Most Frequent Element
+// 1838.[Medium] Frequency of the Most Frequent Element
 // TODO
 public class FrequencyoftheMostFrequentElement {
     public static void main(String[] args) {
